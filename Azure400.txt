@@ -1,0 +1,172 @@
+<h1>Monthly Azure-400 learning progress by Mohith, Abubakar.</h1>
+<html>
+<body>
+	
+<table border="1" cell spacing="0">
+
+	    <tr>
+		     <th colspan="5"> Monthly progress </th>
+</tr>
+
+<tr>
+	<th rowspan="7"> Status by Mohith/Abu </th>
+	<th> week-1</th>
+	<th> week-2</th>
+	<th> week-3</th>
+	<th> week-4</th>	
+</tr>
+
+<tr>
+    <td>AZ-400&900: Microsoft Azure Fundamentals </td>
+	<td>AZ-400 Designing and Implementing DevOps</td>
+	<td>AZ-400 Designing and Implementing DevOps </td>
+	<td>-------------------- </td>
+</tr>
+
+<tr>
+<td><li>In Az-900 Microsoft Azure fundamentals we completed serverless technology,Networking module
+<li>Az-900 covered ,data redudency,blob storage,file storage.
+<li>In az-900 Did hands on practice by creating the storage account in azure,service end points in azure network
+<li>We covered list of storage services in azure ,disk storage in azure, table storage & queue storage </td>
+
+	<td><li>Diwali holiday
+ </td>
+	 
+<td><li>Implementing the infrastructure basics of ARM templates
+<li>Covered Structures of linked template,nested template,Modularize templates,on release pipe lines.
+</td>
+	 
+	 
+<td><LI>
+<li>
+<li>
+<li>
+<li>
+</td>
+</tr>
+
+<tr>
+	
+<td><li>Az-400 Design & implementing DevOps we covered project life cycle,Agile methodology, waterfall model,scrum process,primer to devevelopment & operations 
+<li>Known the diffrence between traditional project developmental aproach & DevOps approach, cross functionality in devops 
+<li>In az-400 gone through the Azure boards, mannaging user boards,work item process,adding task to users,creating the sprints 
+<li>Did Hands on practice on azure boards ,creating user story in azure boards,adding tasks to work items and assigning work to team members,creating users,adding users to the projects giving permission to users</td>	
+ 
+<td><li>In Az-400 Designing and implementing DevOps Microsoft Azure today we  created new pipeline, triggering the pipeline,microsoft hosted agent, installing the dependency on virtual machine & microsoft hosted pool  
+<li>Adding security agent to the repository mend bolt set up tool (white source)& azure pipeline classic editor usage 
+<li>Taking source code from github & building a yaml pipe line,adding status badge to the git hub about the pipeline build status & understanding the solving the issues with hosted agent issues & vm image requirements, 
+<li>Deploying the self hosted agent registering the self hosted with Azure devOps
+</td>
+	
+
+<td><li>In Az-400 Designing and implementing DevOps Microsoft gone through the Blue/ green/canary deployments 
+<li>Covered Azure traffic manager, implementing load balancer on vm & traffic mannager, creating & publishing on the packages
+<li>Adding upstream on the azure artificates consuming the artificats
+<li>Hands on practice on the setting up self hosted agent & linking with agent pool & deploying the multi stage build pipe line
+</td>
+					
+<td><li> 
+<li>
+<li>
+<li>
+<li>    </td>
+
+</tr>
+
+<td><LI>Today we Worked with git,adding repository,git branches,stagging files,
+<li>Worked with branches,Branch merging , Squash merge and we published into the git repository
+<li>Branching strategies,Azure repos on branching,
+<li>Branching pull request & Adding approval for the pull requests
+
+
+</td>
+
+<td><li>In Az-400 Designing and implementing DevOps Microsoft Jenkins intigration with Azure repos & created a build pipeline
+<li>Manual deployment of pipeline, creating the multiple stages in a pipeline, adding Pre-Deployment to users & permissions , post deployment & permissions
+<li>Adding the Azure pipe line & approval & gates on pre deployment & post deployment & gates trigger integration with Azure boards with query work item
+<li>Covered Azure monitor alerte gates deployment group setup & implementation 
+</td>
+
+<td>
+<li>In Az-400 Designing and implementing DevOps understaing the variables & storing varibles in libarary,& implementing the variables in azure pipelines
+<li>Knowing about azure test plans ,Enabling the test plane services,running test cases in azure & access the test resuts in azure 
+<li>Hands on practice on azure manual deployment on multi stage pipeline adding pre deployment & post deployment user permessions 
+<li>Azure key vault in pipelines deployment,varible groups in azure key valut classic editior 
+</td>
+
+<td><li>
+<li>
+<li>
+<li>
+<li>
+<li>    </td>
+
+
+<tr>
+<td><LI>We Covered how to Import the script from git hub to azure repo
+<li>Cloning a project from  remote repository  to local repository and  setting the public & private projects
+<li>Cloning repository to visual studio code  from azure repos
+<li>Branch policy & Branch security on work items.
+<li>Adding users to the project, giving permission to the project members.
+</td>
+
+<td><li>In Az-400 Designing and implementing DevOps Microsoft Azure web app with Azure SQL database, deployment of Azure web app with SQL server, created the tables in Azure SQL
+<li>Created Azure web app with connection string, releasing the pipeline with work items on queries
+<li>Today we covered how to Build a docker image, deploying a container & Azure container registry,Azure pipe line container registry implementation topics.
+<li>In Azure container registry instance on relase pipe line 
+</td>
+
+<td><li>In Az-400 Designing and implementing DevOps understaing the variables & storing varibles in libarary,& implementing the variables in azure pipelines
+<li>Knowing about azure test plans ,enaible the test plane services,rinning test cases in azure, test cases, & access the test resuts in azure
+<li>Hands on practice on azure manual deployment on multi stage pipeline adding pre deployment & post deployment user permessions 
+<li>Azure key vault in pipelines deployment,varible groups in azure key valut classic editior
+</td>
+
+<td><li>
+<li>
+<li>
+<li>
+<li></td>
+
+
+
+</tr>
+<td><LI>Azure continuous integration process,build process,publish process
+<li>knowing about the azure pipelines(Team Technical discussion)
+<li>Created simple pipeline using yaml By using microsoft hosted agent
+<li>Created the self hosted agent, Into agent pools to the azure project
+<li>Deploying the self hosted agent, Registering the agent.
+</td>
+
+<td><LI>Created pipe line on classic editor pipeline caching.
+<li>Running parallel jobs using git hub actions adding status badge on git hub.
+<li>Installing jenkins & Jenkins did integration with azure repos.
+<li>Manual deployment on web application.
+</td>
+
+<td><li>
+<li>
+<li>week 3 final day
+</td>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+
+</body>
+
+</html>
+		
+
+
